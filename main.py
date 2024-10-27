@@ -1,4 +1,4 @@
-# example of Match Case in Python similar to Switch Case in C++ and Java
+# example of Match Case in Python similar to Switch Case in C++ and Java.
 
 try: 
     x = int(input("Enter a number between 1 and 7: "))
