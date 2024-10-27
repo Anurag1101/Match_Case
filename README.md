@@ -24,20 +24,20 @@ This Python script prompts the user to enter a number between 1 and 7, using the
 ## Example Output
 
 ### Valid Input
-```plaintext
 Enter a number between 1 and 7: 3
 Wednesday
 
-Out-of-Range Input
-plaintext
-Copy code
+
+### Out-of-Range Input
+
 Enter a number between 1 and 7: 10
 Error: Please enter a number between 1 and 7.
-Non-Integer Input
-plaintext
-Copy code
+
+### Non-Integer Input
+
 Enter a number between 1 and 7: hello
 Error: Invalid input. Please enter an integer.
+
 Requirements
 Python 3.10+ (for match-case syntax)
 License
